@@ -1,4 +1,4 @@
-![Image](https://springblock.github.io/website/images/chain_small.png) SAFBC
+![Image](https://springblock.github.io/website/images/chain_small.png) | [ Home ](https://springblock.github.io/website/)
 
 ## Our Member Organisations
 
