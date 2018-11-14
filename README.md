@@ -1,6 +1,4 @@
-# South African Blockchain Consortium
-
-### Together, we can
+### ![Image](https://springblock.github.io/website/images/chain_small.png) Together, we can
 
 ## Purpose
 
@@ -8,12 +6,26 @@ The purpose of the SAFBC is to assimilate and demonstrate the transformative pot
 
 ## Members
 
-Membership is comprised of banks, financial markets infrastructure players and regulators as well as other institutions involved in the financial services industry. Blockchains require a fundamental shift in paradigm, requiring collaboration to deploy such technology across a wide range of ecosystem participants. For a list of institutions involved please click here.
+Membership is comprised of banks, financial markets infrastructure players and regulators as well as other institutions involved in the financial services industry. Blockchains require a fundamental shift in paradigm, requiring collaboration to deploy such technology across a wide range of ecosystem participants. 
+For a list of institutions involved please [click here](https://springblock.github.io/website/members/).
 
 ## Technology
 
 Blockchain technology is still in its early stages of development and the consortium is exploring different technologies including Ethereum, Chain, Hyperledger and Corda. At this stage the consortium is platform agnostic and is seeking to determine the best solution for the needs of the financial services industry. Of paramount importance are security, scalability and privacy. 
-Click here to visit our code repositories.
+[View our public code repositories](https://github.com/springblock).
+
+## Use-Cases being investigated
+
+The SAFBC is currently building the following Proof-of-Concepts to explore the potential of this tech in the respective industry verticals.
+
+- Property Transfer Enablement [Read more](https://springblock.github.io/website/projects/property/)
+- Know Your Customer Verification ( Utilising Self-Sovereign Digital Identity platforms) [Read more...](https://springblock.github.io/website/projects/kyc/)  
+
+### Contact the SAFBC
+
+Please direct general enquiries to our Email address: [info@safbc.co.za](mailto://info@safbc.co.za)
+
+Follow us on Twitter: [@SAFBC_ZA](https://twitter.com/SAFBC_ZA)
 
 
 ## Welcome to GitHub Pages
