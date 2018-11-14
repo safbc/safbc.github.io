@@ -2,7 +2,7 @@
 
 ## Objectives
 
-What are we hoping to achieve
+_What are we hoping to achieve_
 
 ## Technology
 
