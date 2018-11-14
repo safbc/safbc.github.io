@@ -1,4 +1,6 @@
-### ![Image](https://springblock.github.io/website/images/chain_small.png) Together, we can
+# ![Image](https://springblock.github.io/website/images/chain_small.png) SAFBC
+
+###Together, we can
 
 ## Purpose
 
