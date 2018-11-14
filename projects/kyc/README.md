@@ -1,4 +1,4 @@
-# Self-Sovereign Identity and the Know-Your-Customer Use Case
+# Self-Sovereign Identity and the KYC Use-Case
 
 ## Objectives
 
