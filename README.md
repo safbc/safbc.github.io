@@ -1,3 +1,21 @@
+# South African Blockchain Consortium
+
+### Together, we can
+
+## Purpose
+
+The purpose of the SAFBC is to assimilate and demonstrate the transformative potential of blockchain technology for the South African financial industry. The consortium aims to educate and to bring the benefits of blockchain technology to the industry for the benefit of the entire country.
+
+## Members
+
+Membership is comprised of banks, financial markets infrastructure players and regulators as well as other institutions involved in the financial services industry. Blockchains require a fundamental shift in paradigm, requiring collaboration to deploy such technology across a wide range of ecosystem participants. For a list of institutions involved please click here.
+
+## Technology
+
+Blockchain technology is still in its early stages of development and the consortium is exploring different technologies including Ethereum, Chain, Hyperledger and Corda. At this stage the consortium is platform agnostic and is seeking to determine the best solution for the needs of the financial services industry. Of paramount importance are security, scalability and privacy. 
+Click here to visit our code repositories.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/springblock/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
