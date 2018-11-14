@@ -1,4 +1,4 @@
-![Image](https://springblock.github.io/website/images/chain_small.png)
+![Image](https://springblock.github.io/website/images/chain_small.png) | **[ HOME ]**(https://springblock.github.io/website/) | **[ MEMBERS ]**(https://springblock.github.io/website/members/)
 
 ### Together, we can
 
