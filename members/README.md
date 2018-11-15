@@ -12,7 +12,7 @@ _This list is always changing_
 
 ![Image](https://springblock.github.io/website/logos/SA_Reserve_Bank.jpg) | ![Image](https://springblock.github.io/website/logos/Silica.png) | ![Image](https://springblock.github.io/website/logos/Standard_Chartered.png)
 
-![Image](https://springblock.github.io/website/logos/Standard_Portrait.png) | ![Image](https://springblock.github.io/website/logos/absa-logo-round.svg) | ![Image](https://springblock.github.io/website/logos/alexander_forbes.jpg)
+![Image](https://springblock.github.io/website/logos/Standard_Portrait.png) | ![Image](https://springblock.github.io/website/logos/Absa_Logo.jpg) | ![Image](https://springblock.github.io/website/logos/alexander_forbes.jpg)
 
 ![Image](https://springblock.github.io/website/logos/consensys_logo.png) | ![Image](https://springblock.github.io/website/logos/curro.jpg) | ![Image](https://springblock.github.io/website/logos/finswitch-final.jpg)
 
