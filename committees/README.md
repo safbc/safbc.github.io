@@ -1,9 +1,10 @@
 [**HOME**](https://springblock.github.io/website/) | [**MEMBERS**](https://springblock.github.io/website/members/) | [**CHAIR & COMMITTEES**](https://springblock.github.io/website/committees/) | [**MEDIA**](https://springblock.github.io/website/media/) | [**BLOG**](https://springblock.github.io/website/blog/)
 
 The Consortium and the work it undertakes is currently organised into task focused committees. 
-The committees and current chairs as at October 2018 are as follows.
 
-| | Chair | Company | Email Address
+As at October 2018, the committees and current chairs are as follows.
+
+| | **Chair** | **Company** | **Email Address**
 | SAFBC Chair | Tanya Knowles | Strate | tanyak@strate.co.za
 | Regulatory Stream | Catherine Tinavapi | Standard Chartered Bank | Catherine.Tinavapi@sc.com
 | Fintech Stream | Kreaan Singh | Blockstarters | kreaan@blockstarters.com 
