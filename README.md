@@ -28,5 +28,4 @@ Please direct general enquiries to our Email address: [info@safbc.co.za](mailto:
 Follow us on Twitter: [@SAFBC_ZA](https://twitter.com/SAFBC_ZA)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
