@@ -6,7 +6,7 @@ _This list is always changing_
 
 ![Image](https://springblock.github.io/website/logos/BOWMANS.jpg) | ![Image](https://springblock.github.io/website/logos/BankservAfrica.png) | ![Image](https://springblock.github.io/website/logos/Capitec_Bank_Logo.png)
 
-![Image](https://springblock.github.io/website/logos/Citadel-logo.jpg) | ![Image](https://springblock.github.io/website/logos/DA_Logo_Final_2017.jpg) | ![Image](https://springblock.github.io/website/logos/FirstRand-logo.png)
+![Image](https://springblock.github.io/website/logos/Citadel-logo.jpg) | ![Image](https://springblock.github.io/website/logos/Deloitte.png) | ![Image](https://springblock.github.io/website/logos/FirstRand-logo.png)
 
 ![Image](https://springblock.github.io/website/logos/MAITLAND.png) | ![Image](https://springblock.github.io/website/logos/NortonRoseFulbright.png) | ![Image](https://springblock.github.io/website/logos/RMB.png)
 
@@ -22,4 +22,10 @@ _This list is always changing_
 
 ![Image](https://springblock.github.io/website/logos/sanlam-logo.png) | ![Image](https://springblock.github.io/website/logos/strate-logo.png) | ![Image](https://springblock.github.io/website/logos/tr_logo.jpg)
 
-![Image](https://springblock.github.io/website/logos/uct.gif) | ![Image](https://springblock.github.io/website/logos/zarx-logo.png) 
+![Image](https://springblock.github.io/website/logos/uct.gif) | ![Image](https://springblock.github.io/website/logos/zarx-logo.png) | ![Image](https://springblock.github.io/website/logos/ASISA.png)
+
+![Image](https://springblock.github.io/website/logos/Blockstarters-small.png) | ![Image](https://springblock.github.io/website/logos/Computershare.png) | ![Image](https://springblock.github.io/website/logos/MMI logo.jpg)
+
+![Image](https://springblock.github.io/website/logos/TIM Logo.png) | ![Image](https://springblock.github.io/website/logos/EFFgroup-clearback.png) | ![Image](https://springblock.github.io/website/logos/Pepper Potts.png)
+
+![Image](https://springblock.github.io/website/logos/Telesure logo LR RGB.JPG) | ![Image](https://springblock.github.io/website/logos/TymeDIGITAL.png) | ![Image](https://springblock.github.io/website/logos/Prudential Logo with Border.png)
