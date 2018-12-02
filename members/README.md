@@ -24,8 +24,8 @@ _This list is always changing_
 
 ![Image](https://springblock.github.io/website/logos/uct.gif) | ![Image](https://springblock.github.io/website/logos/zarx-logo.png) | ![Image](https://springblock.github.io/website/logos/ASISA.png)
 
-![Image](https://springblock.github.io/website/logos/Blockstarters-small.png) | ![Image](https://springblock.github.io/website/logos/Computershare.png) | ![Image](https://springblock.github.io/website/logos/MMI logo.jpg)
+![Image](https://springblock.github.io/website/logos/Blockstarters-small.png) | ![Image](https://springblock.github.io/website/logos/Computershare.png) | ![Image](https://springblock.github.io/website/logos/MMI%20logo.jpg)
 
-![Image](https://springblock.github.io/website/logos/TIM Logo.png) | ![Image](https://springblock.github.io/website/logos/EFFgroup-clearback.png) | ![Image](https://springblock.github.io/website/logos/Pepper Potts.png)
+![Image](https://springblock.github.io/website/logos/TIM%20Logo.png) | ![Image](https://springblock.github.io/website/logos/EFFgroup-clearback.png) | ![Image](https://springblock.github.io/website/logos/Pepper%20Potts.png)
 
-![Image](https://springblock.github.io/website/logos/Telesure logo LR RGB.JPG) | ![Image](https://springblock.github.io/website/logos/TymeDIGITAL.png) | ![Image](https://springblock.github.io/website/logos/Prudential Logo with Border.png)
+![Image](https://springblock.github.io/website/logos/Telesure%20logo%20LR%20RGB.JPG) | ![Image](https://springblock.github.io/website/logos/TymeDIGITAL.png) | ![Image](https://springblock.github.io/website/logos/Prudential%20Logo%20with%20Border.png)
