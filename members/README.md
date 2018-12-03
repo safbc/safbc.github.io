@@ -30,4 +30,4 @@ _This list is always changing_
 
 ![Image](https://springblock.github.io/website/logos/Telesure%20logo%20LR%20RGB.JPG) | ![Image](https://springblock.github.io/website/logos/TymeDIGITAL.png) | ![Image](https://springblock.github.io/website/logos/Prudential%20Logo%20with%20Border.png)
 
-![Image](https://springblock.github.io/website/logos/TrustLab.jpeg) | ![Image](https://springblock.github.io/website/logos/Pepper%20Potts.png)
+![Image](https://springblock.github.io/website/logos/Pepper%20Potts.png) | ![Image](https://springblock.github.io/website/logos/TrustLab.jpeg)
