@@ -1,6 +1,6 @@
 [**HOME**](https://safbc.github.io/website/) | [**MEMBERS**](https://safbc.github.io/website/members/) | [**PROJECTS**](https://safbc.github.io/website/projects/) | [**CHAIR & WG**](https://safbc.github.io/website/committees/) | [**MEDIA**](https://safbc.github.io/website/media/) | [**BLOG**](https://safbc.github.io/website/blog/)
 
-[**PROPERTY**](https://safbc.github.io/website/property/) | [**SSI KYC**](https://safbc.github.io/website/kyc/)
+[**PROPERTY**](https://safbc.github.io/website/projects/property/) | [**SSI KYC**](https://safbc.github.io/website/projects/kyc/)
 
 ## Technology
 
