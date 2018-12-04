@@ -1,13 +1,6 @@
 [**HOME**](https://safbc.github.io/website/) | [**MEMBERS**](https://safbc.github.io/website/members/) | [**PROJECTS**](https://safbc.github.io/website/projects/) | [**CHAIR & COMMITTEES**](https://safbc.github.io/website/committees/) | [**MEDIA**](https://safbc.github.io/website/media/) | [**BLOG**](https://safbc.github.io/website/blog/)
 
-## Purpose
-
-The purpose of the SAFBC is to assimilate and demonstrate the transformative potential of blockchain technology for the South African financial industry. The consortium aims to educate and to bring the benefits of blockchain technology to the industry for the benefit of the entire country.
-
-## Members
-
-Membership is comprised of banks, financial markets infrastructure players and regulators as well as other institutions involved in the financial services industry. Blockchains require a fundamental shift in paradigm, requiring collaboration to deploy such technology across a wide range of ecosystem participants. 
-For a list of institutions involved please [click here](https://safbc.github.io/website/members/).
+[**PROPERTY**](https://safbc.github.io/website/property/) | [**SSI KYC**](https://safbc.github.io/website/kyc/)
 
 ## Technology
 
@@ -20,12 +13,3 @@ The SAFBC is currently building the following Proof-of-Concepts to explore the p
 
 - Property Transfer [Read more](https://safbc.github.io/website/projects/property/)
 - Know Your Customer Verification ( Utilising Self-Sovereign Digital Identity platforms) [Read more...](https://safbc.github.io/website/projects/kyc/)  
-
-### Contact the SAFBC
-
-Please direct general enquiries to our Email address: [info@safbc.co.za](mailto://info@safbc.co.za)
-
-Follow us on Twitter: [@SAFBC_ZA](https://twitter.com/SAFBC_ZA)
-
-
-
