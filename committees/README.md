@@ -1,8 +1,8 @@
-[**HOME**](https://safbc.github.io/website/) | [**MEMBERS**](https://safbc.github.io/website/members/) | [**CHAIR & COMMITTEES**](https://safbc.github.io/website/committees/) | [**MEDIA**](https://safbc.github.io/website/media/) | [**BLOG**](https://safbc.github.io/website/blog/)
+[**HOME**](https://safbc.github.io/website/) | [**MEMBERS**](https://safbc.github.io/website/members/) | [**PROJECTS**](https://safbc.github.io/website/projects/) | [**CHAIR & WG**](https://safbc.github.io/website/committees/) | [**MEDIA**](https://safbc.github.io/website/media/) | [**BLOG**](https://safbc.github.io/website/blog/)
 
-The Consortium and the work it undertakes is currently organised into task focused committees. 
+The Consortium and the work it undertakes is currently organised into task focused working groups. 
 
-As at October 2018, the committees and current chairs are as follows.
+As at October 2018, the working groups and current chairs are as follows.
 
 | | Chair | Company | Email Address
 |-|-------|---------|--------------
@@ -14,7 +14,7 @@ As at October 2018, the committees and current chairs are as follows.
 | PR Stream | TBC | | |
 | SAFB Secretariat | Khaliso Seeko | Strate | khahlisos@strate.co.za
 
-## Roles of the Sub Committees
+## Roles of the Working Groups
 
 ### Regulatory Stream
 
