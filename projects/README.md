@@ -2,14 +2,9 @@
 
 [**PROPERTY**](https://safbc.github.io/website/projects/property/) | [**SSI KYC**](https://safbc.github.io/website/projects/kyc/)
 
-## Technology
-
-Blockchain and Distributed Ledger Technologies are in a ever evolving state and the consortium is exploring different technologies . At this stage the consortium is platform agnostic and is seeking to determine the best solution for the needs of the financial services industry. Of paramount importance are security, scalability and privacy. 
-[View our public code repositories](https://github.com/safbc).
-
-## Use-Cases being investigated
+## Demonstration Projects
 
 The SAFBC is currently building the following Proof-of-Concepts to explore the potential of this tech in the respective industry verticals.
 
-- Property Transfer [Read more](https://safbc.github.io/website/projects/property/)
-- Know Your Customer Verification ( Utilising Self-Sovereign Digital Identity platforms) [Read more...](https://safbc.github.io/website/projects/kyc/)  
+- Property Transfer [Read more...](https://safbc.github.io/website/projects/property/)
+- Know Your Customer ( Using Self-Sovereign Identity principles) [Read more...](https://safbc.github.io/website/projects/kyc/)  
