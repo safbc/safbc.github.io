@@ -12,7 +12,7 @@ _This list is always changing_
 
 ![Image](https://safbc.github.io/website/logos/SA_Reserve_Bank.jpg) | ![Image](https://safbc.github.io/website/logos/Silica.png) | ![Image](https://safbc.github.io/website/logos/Standard_Chartered.png)
 
-![Image](https://safbc.github.io/website/logos/Standard_Portrait.png) | ![Image](https://safbc.github.io/website/logos/Absa_Logo.png) | ![Image](https://safbc.github.io/website/logos/alexander_forbes.jpg)
+![Image](https://safbc.github.io/website/logos/Standard_Portrait.png) | ![Image](https://safbc.github.io/website/logos/Absa_Logo.png) | ![Image](https://safbc.github.io/website/logos/old-mutual.png)
 
 ![Image](https://safbc.github.io/website/logos/consensys_logo.png) | ![Image](https://safbc.github.io/website/logos/curro.jpg) | ![Image](https://safbc.github.io/website/logos/finswitch-final.jpg)
 
@@ -26,7 +26,7 @@ _This list is always changing_
 
 ![Image](https://safbc.github.io/website/logos/Blockstarters-small.png) | ![Image](https://safbc.github.io/website/logos/Computershare.png) | ![Image](https://safbc.github.io/website/logos/MMI%20logo.jpg)
 
-![Image](https://safbc.github.io/website/logos/ThisIsMe.png) | ![Image](https://safbc.github.io/website/logos/EFFgroup-clearback.png)
+![Image](https://safbc.github.io/website/logos/ThisIsMe.png) | ![Image](https://safbc.github.io/website/logos/EFFgroup-clearback.png) | ![Image](https://safbc.github.io/website/logos/alexander_forbes.jpg)
 
 ![Image](https://safbc.github.io/website/logos/Telesure.JPG) | ![Image](https://safbc.github.io/website/logos/TymeDIGITAL.png) | ![Image](https://safbc.github.io/website/logos/Prudential.png)
 
