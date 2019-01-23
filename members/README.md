@@ -1,33 +1,33 @@
-[**HOME**](https://safbc.github.io/website/) | [**MEMBERS**](https://safbc.github.io/website/members/) | [**PROJECTS**](https://safbc.github.io/website/projects/) | [**CHAIR & WG**](https://safbc.github.io/website/committees/) | [**MEDIA**](https://safbc.github.io/website/media/) | [**BLOG**](https://safbc.github.io/website/blog/)
+[**HOME**](https://www.safbc.co.za) | [**MEMBERS**](/members/) | [**PROJECTS**](/projects/) | [**CHAIR & WG**](/committees/) | [**MEDIA**](/media/) | [**BLOG**](/blog/)
 
 ## Our Member Organisations
 
 _This list is always changing_
 
-![Image](https://safbc.github.io/website/logos/BOWMANS.jpg) | ![Image](https://safbc.github.io/website/logos/BankservAfrica.png) | ![Image](https://safbc.github.io/website/logos/Capitec_Bank_Logo.png)
+![Image](/logos/BOWMANS.jpg) | ![Image](/logos/BankservAfrica.png) | ![Image](/logos/Capitec_Bank_Logo.png)
 
-![Image](https://safbc.github.io/website/logos/Citadel-logo.jpg) | ![Image](https://safbc.github.io/website/logos/Deloitte.png) | ![Image](https://safbc.github.io/website/logos/FirstRand-logo.png)
+![Image](/logos/Citadel-logo.jpg) | ![Image](/logos/Deloitte.png) | ![Image](/logos/FirstRand-logo.png)
 
-![Image](https://safbc.github.io/website/logos/MAITLAND.png) | ![Image](https://safbc.github.io/website/logos/NortonRoseFulbright.png) | ![Image](https://safbc.github.io/website/logos/RMB.png)
+![Image](/logos/MAITLAND.png) | ![Image](/logos/NortonRoseFulbright.png) | ![Image](/logos/RMB.png)
 
-![Image](https://safbc.github.io/website/logos/SA_Reserve_Bank.jpg) | ![Image](https://safbc.github.io/website/logos/Silica.png) | ![Image](https://safbc.github.io/website/logos/Standard_Chartered.png)
+![Image](/logos/SA_Reserve_Bank.jpg) | ![Image](/logos/Silica.png) | ![Image](/logos/Standard_Chartered.png)
 
-![Image](https://safbc.github.io/website/logos/Standard_Portrait.png) | ![Image](https://safbc.github.io/website/logos/Absa_Logo.png) | ![Image](https://safbc.github.io/website/logos/old-mutual.png)
+![Image](/logos/Standard_Portrait.png) | ![Image](/logos/Absa_Logo.png) | ![Image](/logos/old-mutual.png)
 
-![Image](https://safbc.github.io/website/logos/consensys_logo.png) | ![Image](https://safbc.github.io/website/logos/curro.jpg) | ![Image](https://safbc.github.io/website/logos/finswitch-final.jpg)
+![Image](/logos/consensys_logo.png) | ![Image](/logos/curro.jpg) | ![Image](/logos/finswitch-final.jpg)
 
-![Image](https://safbc.github.io/website/logos/fnb-logo.png) | ![Image](https://safbc.github.io/website/logos/fsb-logo-final.jpg) | ![Image](https://safbc.github.io/website/logos/investec.png)
+![Image](/logos/fnb-logo.png) | ![Image](/logos/fsb-logo-final.jpg) | ![Image](/logos/investec.png)
 
-![Image](https://safbc.github.io/website/logos/jse-logo.png) | ![Image](https://safbc.github.io/website/logos/ned.jpg) | ![Image](https://safbc.github.io/website/logos/pasa-final.png)
+![Image](/logos/jse-logo.png) | ![Image](/logos/ned.jpg) | ![Image](/logos/pasa-final.png)
 
-![Image](https://safbc.github.io/website/logos/sanlam-logo.png) | ![Image](https://safbc.github.io/website/logos/strate-logo.png) | ![Image](https://safbc.github.io/website/logos/tr_logo.jpg)
+![Image](/logos/sanlam-logo.png) | ![Image](/logos/strate-logo.png) | ![Image](/logos/tr_logo.jpg)
 
-![Image](https://safbc.github.io/website/logos/uct.gif) | ![Image](https://safbc.github.io/website/logos/zarx-logo.png) | ![Image](https://safbc.github.io/website/logos/ASISA.png)
+![Image](/logos/uct.gif) | ![Image](/logos/zarx-logo.png) | ![Image](/logos/ASISA.png)
 
-![Image](https://safbc.github.io/website/logos/Blockstarters-small.png) | ![Image](https://safbc.github.io/website/logos/Computershare.png) | ![Image](https://safbc.github.io/website/logos/MMI%20logo.jpg)
+![Image](/logos/Blockstarters-small.png) | ![Image](/logos/Computershare.png) | ![Image](/logos/MMI%20logo.jpg)
 
-![Image](https://safbc.github.io/website/logos/ThisIsMe.png) | ![Image](https://safbc.github.io/website/logos/EFFgroup-clearback.png) | ![Image](https://safbc.github.io/website/logos/alexander_forbes.jpg)
+![Image](/logos/ThisIsMe.png) | ![Image](/logos/EFFgroup-clearback.png) | ![Image](/logos/alexander_forbes.jpg)
 
-![Image](https://safbc.github.io/website/logos/Telesure.JPG) | ![Image](https://safbc.github.io/website/logos/TymeDIGITAL.png) | ![Image](https://safbc.github.io/website/logos/Prudential.png)
+![Image](/logos/Telesure.JPG) | ![Image](/logos/TymeDIGITAL.png) | ![Image](/logos/Prudential.png)
 
-![Image](https://safbc.github.io/website/logos/PepperPotts.png) | ![Image](https://safbc.github.io/website/logos/TrustLab.jpeg)
+![Image](/logos/PepperPotts.png) | ![Image](/logos/TrustLab.jpeg)
