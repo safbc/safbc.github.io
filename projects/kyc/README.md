@@ -8,7 +8,7 @@ _To explore the use of Blockchain technology as applied to Digital Identity and 
 
 ### Why
 
-_DIGITAL IDENTIFICATION: A KEY TO INCLUSIVE GROWTH_
+[_DIGITAL IDENTIFICATION: A KEY TO INCLUSIVE GROWTH_](https://www.mckinsey.com/featured-insights/innovation-and-growth/the-value-of-digital-id-for-the-global-economy-and-society)
 
 ![Benifits of Good Digital ID](/projects/kyc/files//McKinseyGoodID.png)
 
