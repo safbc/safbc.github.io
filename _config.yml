@@ -4,3 +4,5 @@ logo: /images/SAFBC-Logo.PNG
 description: Exploring the transformative potential of blockchain technology for the South African financial industry.
 theme: jekyll-theme-minimal
 twitter_username: SAFBC_ZA
+plugins:
+  - jekyll-gist
