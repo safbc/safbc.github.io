@@ -1,8 +1,7 @@
 [**HOME**](https://www.safbc.co.za) | [**MEMBERS**](/members/) | [**PROJECTS**](/projects/) | [**CHAIR & WG**](/committees/) | [**MEDIA**](/media/) | [**BLOG**](/blog/)
 
-## Our Member Organisations
+## Our Current Member Organisations
 
-_This list is always changing_
 
 ![Image](/logos/Absa_Logo.png) | ![Image](/logos/allan_gray.svg) | ![Image](/logos/ASISA.png)
 
