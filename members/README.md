@@ -36,5 +36,5 @@ _This list is always changing_
 
 ![Image](/logos/jse-logo.png) | ![Image](/logos/Telesure.JPG) | ![Image](/logos/TrustLab.jpeg)
 
-![Image](/logos/TymeDIGITAL.png) | ![Image](/logos/zarx-logo.png) | ![Image](/logos/)
+![Image](/logos/TymeDIGITAL.jpg) | ![Image](/logos/zarx-logo.png) | ![Image](/logos/)
 
