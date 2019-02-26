@@ -14,9 +14,9 @@ _To explore the use of Blockchain technology as applied to Digital Identity and 
 
 ### Technologies
 
--   Sovrin
--   uPort
--   Other
+- Sovrin
+- uPort
+- Other
 
 ### From the web
 
