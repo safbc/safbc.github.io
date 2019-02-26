@@ -14,7 +14,7 @@ _This list is always changing_
 
 ![Image](/logos/curro.jpg) | ![Image](/logos/Deloitte.png) | ![Image](/logos/finswitch-final.jpg)
 
-![Image](/logos/fsca.svg) | ![Image](/logos/fnb-logo.png) | ![Image](/logos/grindrod.svg)
+![Image](/logos/FSCA.png) | ![Image](/logos/fnb-logo.png) | ![Image](/logos/grindrod.svg)
 
 ![Image](/logos/hellopaisa.png) | ![Image](/logos/hoganlovells.jpg) | ![Image](/logos/ibm.png)
 
@@ -30,11 +30,11 @@ _This list is always changing_
 
 ![Image](/logos/SAHL.png) | ![Image](/logos/SA_Reserve_Bank.jpg) | ![Image](/logos/SARS.jpg)
 
-![Image](/logos/sbv.jpg) | ![Image](/logos/Silica.png) | ![Image](/logos/sovtech.png)
+![Image](/logos/sbv.jpg) | ![Image](/logos/SILICA.jpg) | ![Image](/logos/sovtech.png)
 
 ![Image](/logos/Standard_Portrait.png) | ![Image](/logos/Standard_Chartered.png) | ![Image](/logos/strate-logo.png)
 
 ![Image](/logos/jse-logo.png) | ![Image](/logos/Telesure.JPG) | ![Image](/logos/TrustLab.jpeg)
 
-![Image](/logos/TymeDIGITAL.jpg) | ![Image](/logos/zarx-logo.png) | ![Image](/logos/)
+![Image](/logos/TymeDIGITAL.jpg) | ![Image](/logos/zarx-logo.png) 
 
