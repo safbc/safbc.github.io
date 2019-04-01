@@ -30,4 +30,4 @@ _This list is always changing_
 
 ![Image](/logos/Telesure.JPG) | ![Image](/logos/TymeDIGITAL.png) | ![Image](/logos/Prudential.png)
 
-![Image](/logos/PepperPotts.png) | ![Image](/logos/TrustLab.jpeg)
+![Image](/logos/PepperPotts.png) | ![Image](/logos/TrustLab.jpeg) | ![Image](/logos/synthesis.png)
