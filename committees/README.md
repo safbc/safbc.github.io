@@ -6,15 +6,20 @@ As at October 2018, the working groups and current chairs are as follows.
 
 |                   | Chairperson        | Company                 | Email Address             |
 | ----------------- | ------------------ | ----------------------- | ------------------------- |
-| SAFBC Org         | Tanya Knowles      |                         | tanyaknowles1@gmail.com   |
+| SAFBC Forum       | Tanya Knowles      | Consultant              | tanyaknowles1@gmail.com   |
 | Regulatory Stream | Catherine Tinavapi | Standard Chartered Bank | Catherine.Tinavapi@sc.com |
 | Fintech Stream    | Kreaan Singh       | Blockstarters           | kreaan@blockstarters.com  |
 | Technology Stream | Johan Pretorius    | Strate                  | johanp@strate.co.za       |
 | Academic Stream   | Co-Pierre Georg    |                         | cogeorg@gmail.com         |
-| PR Stream         | TBC                |                         |                           |
-| SAFB Secretariat  | Khaliso Seeko      | Strate                  | khahlisos@strate.co.za    |
 
 ## Roles of the Working Groups
+
+### SAFBC General Forum
+
+-   Open forum for members to gather and share learnings.
+-   Group feedback on activities of the Sub-streams.
+-   Group decisions on SAFBC strategy and initiatives to be undertaken.
+-   Bi-annual chair elections.
 
 ### Regulatory Stream
 
