@@ -35,9 +35,4 @@
 
 ![Image](/logos/jse-logo.png) | ![Image](/logos/Telesure.JPG) | ![Image](/logos/TrustLab.jpeg)
 
-![Image](/logos/TymeDIGITAL.jpg) | ![Image](/logos/zarx-logo.png) 
-
-<<<<<<< HEAD
-![Image](/logos/PepperPotts.png) | ![Image](/logos/TrustLab.jpeg) | ![Image](/logos/synthesis.png)
-=======
->>>>>>> 3c250be939cb3f20fa529aaa88dbd8a4d1224505
+![Image](/logos/TymeDIGITAL.jpg) | ![Image](/logos/zarx-logo.png) | ![Image](/logos/synthesis.png)
