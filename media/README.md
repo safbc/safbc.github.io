@@ -1,16 +1,19 @@
 [**HOME**](https://www.safbc.co.za) | [**MEMBERS**](/members/) | [**PROJECTS**](/projects/) | [**CHAIR & WG**](/committees/) | [**MEDIA**](/media/) | [**BLOG**](/blog/)
 
-<<<<<<< HEAD
 ## Recomended Reading and Videos
 
 ### Good to Read
 
 White-papers and research
 
-[Digital ID - A Report on the Digital Identity Landscape and Providers (2019 - Blockchain Learning Group; Blockscal Solutions)](</media/files/Digital%20ID%20-%20A%20Report%20on%20the%20Digital%20Identity%20Landscape%20and%20Providers%20(2019).pdf>)
+[IMSC Pan-Canadian Trust Framework Version 1.0 Proposal](<https://github.com/canada-ca/PCTF-CCP>)
+
+[Digital ID - A Report on the Digital Identity Landscape and Providers (2019 - Blockchain Learning Group; Blockscale Solutions)](</media/files/Digital%20ID%20-%20A%20Report%20on%20the%20Digital%20Identity%20Landscape%20and%20Providers%20(2019).pdf>)
 
 ### Good to Watch
-=======
+
+[Video Overview of IMSC Pan-Canadian Trust Framework Version 1.0](<https://youtu.be/2QzapDplJyA>)
+
 ## Notable @Mentions
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Meet Our Speaker: Anushka Soma-Patel, Identity Stream Lead for <a href="https://twitter.com/SAFBC_ZA?ref_src=twsrc%5Etfw">@SAFBC_ZA</a> (SA Financial <a href="https://twitter.com/hashtag/Blockchain?src=hash&amp;ref_src=twsrc%5Etfw">#Blockchain</a> Consortium). Anushka will be doing a demo on the use of identity wallets and verified claims within an ecosystem at <a href="https://twitter.com/hashtag/BAC19?src=hash&amp;ref_src=twsrc%5Etfw">#BAC19</a> in <a href="https://twitter.com/hashtag/Johannesburg?src=hash&amp;ref_src=twsrc%5Etfw">#Johannesburg</a>.<br>Book your ticket <a href="https://t.co/7CJPrF794y">https://t.co/7CJPrF794y</a> <a href="https://t.co/7AA3H5hPzL">pic.twitter.com/7AA3H5hPzL</a></p>&mdash; Blockchain Africa (@BlockchainZA) <a href="https://twitter.com/BlockchainZA/status/1085867007361327104?ref_src=twsrc%5Etfw">January 17, 2019</a></blockquote>
@@ -20,6 +23,3 @@ White-papers and research
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thank you <a href="https://twitter.com/TanyaKnowles?ref_src=twsrc%5Etfw">@TanyaKnowles</a> from <a href="https://twitter.com/SAFBC_ZA?ref_src=twsrc%5Etfw">@SAFBC_ZA</a> for a great presentation <a href="https://twitter.com/tresconwbs?ref_src=twsrc%5Etfw">@tresconwbs</a> <a href="https://twitter.com/hashtag/WBSMauritius?src=hash&amp;ref_src=twsrc%5Etfw">#WBSMauritius</a> <a href="https://t.co/VMeshwzjhq">https://t.co/VMeshwzjhq</a></p>&mdash; Lindsay Luppnow (@CryptoLegalLulu) <a href="https://twitter.com/CryptoLegalLulu/status/1068409058275713024?ref_src=twsrc%5Etfw">November 30, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
->>>>>>> 3c250be939cb3f20fa529aaa88dbd8a4d1224505
