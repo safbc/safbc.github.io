@@ -2,6 +2,9 @@
 
 ## Recommended Reads...
 
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">My keynote address on digital identity &quot;This time it’s war&quot; at KnowID 2019 in Las . Vegas is here on Medium <a href="https://t.co/M1RKjjprE6">https://t.co/M1RKjjprE6</a></p>&mdash; © Dave Birch (2019) (@dgwbirch) <a href="https://twitter.com/dgwbirch/status/1111665070700924928?ref_src=twsrc%5Etfw">March 29, 2019</a></blockquote>
+
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“We want to feel empowered by technology, and we’ve forgotten that utility does not equal empowerment.” <a href="https://twitter.com/hairyelefante?ref_src=twsrc%5Etfw">@hairyelefante</a> <a href="https://t.co/GyTQylUctp">https://t.co/GyTQylUctp</a></p>&mdash; Tim Bouma (@trbouma) <a href="https://twitter.com/trbouma/status/1100230690279440389?ref_src=twsrc%5Etfw">February 26, 2019</a></blockquote>
 
 
@@ -16,4 +19,6 @@
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“To have a trustworthy identity, we must have trustworthy agents. We expect lawyers to keep our confidences, and even enforce such behavior. Unfortunately, identity tech is rife with flaws in this regard”      <a href="https://t.co/JyX0kSbe2w">https://t.co/JyX0kSbe2w</a></p>&mdash; Tim Bouma (@trbouma) <a href="https://twitter.com/trbouma/status/1090443255077130242?ref_src=twsrc%5Etfw">January 30, 2019</a></blockquote>
+
+
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
