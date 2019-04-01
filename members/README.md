@@ -36,3 +36,5 @@
 ![Image](/logos/jse-logo.png) | ![Image](/logos/Telesure.JPG) | ![Image](/logos/TrustLab.jpeg)
 
 ![Image](/logos/TymeDIGITAL.jpg) | ![Image](/logos/zarx-logo.png) | ![Image](/logos/synthesis.png)
+
+![Image](/logos/bvnk.png) |
