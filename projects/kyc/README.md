@@ -4,10 +4,20 @@
 
 ### Objectives
 
-_What are we hoping to achieve_
+_To explore the use of Blockchain technology as applied to Digital Identity and understand the role that Financial Institutions should play in building a Secure, Efficient and Inclusive System for South Africa._
+
+### Why
+
+[_DIGITAL IDENTIFICATION: A KEY TO INCLUSIVE GROWTH_](https://www.mckinsey.com/featured-insights/innovation-and-growth/the-value-of-digital-id-for-the-global-economy-and-society)
+
+![Benifits of Good Digital ID](/projects/kyc/files//McKinseyGoodID.png)
 
 ### Technologies
 
--   Sovrin
--   uPort
--   Other
+- Sovrin
+- uPort
+- Other
+
+### From the web
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6497225831356645376" height="738" width="504" frameborder="0" allowfullscreen=""></iframe>
