@@ -12,6 +12,9 @@ White-papers and research
 
 ### Good to Watch
 
+BAC19 Johannesburg Panel 2 - Enterprise Blockchain in Finance
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7FOWxQfOF7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Video Overview of IMSC Pan-Canadian Trust Framework Version 1.0](<https://youtu.be/2QzapDplJyA>)
 
 ## Notable @Mentions
