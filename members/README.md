@@ -37,4 +37,4 @@
 
 ![Image](/logos/TymeDIGITAL.jpg) | ![Image](/logos/zarx-logo.png) | ![Image](/logos/synthesis.png)
 
-![Image](/logos/bvnk.png) | ![Image](/logos/Information%20Capital_Colour_Square_Slogan.png) |
+![Image](/logos/bvnk.png) | ![Image](/logos/Information%20Capital_Colour_Slogan.png) |
