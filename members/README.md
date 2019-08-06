@@ -33,7 +33,7 @@
 
 ![Image](/logos/Standard_Portrait.png) | ![Image](/logos/Standard_Chartered.png) | ![Image](/logos/strate-logo.png)
 
-![Image](/logos/jse-logo.png) | ![Image](/logos/Telesure.JPG) | ![Image](/logos/TrustLab.jpeg)
+![Image](/logos/jse-logo.png) | ![Image](/logos/Telesure.JPG) | ![Image](/logos/didx.png)
 
 ![Image](/logos/TymeDIGITAL.jpg) | ![Image](/logos/zarx-logo.png) | ![Image](/logos/synthesis.png)
 
