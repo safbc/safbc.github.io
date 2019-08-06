@@ -9,7 +9,7 @@ As at October 2018, the working groups and current chairs are as follows.
 | SAFBC Forum       | Tanya Knowles      | Consultant              | tanyaknowles1@gmail.com   |
 | Regulatory Stream | Catherine Tinavapi | Standard Chartered Bank | Catherine.Tinavapi@sc.com |
 | Fintech Stream    | Kreaan Singh       | Blockstarters           | kreaan@blockstarters.com  |
-| Identity Stream   | Anushka Soma-Patel | Old Mututal             | ASoma-Patel@oldmutual.com |
+| Identity Stream   | Anushka Soma-Patel <br>Gary de Beer | Old Mututal <br> BankservAfrica             | ASoma-Patel@oldmutual.com <br> garyd@bankservafica.com |
 | Academic Stream   | Co-Pierre Georg    |                         | cogeorg@gmail.com         |
 
 ## Roles of the Working Groups
