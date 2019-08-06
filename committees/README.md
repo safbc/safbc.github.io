@@ -1,4 +1,4 @@
-[**HOME**](https://www.safbc.co.za) | [**MEMBERS**](/members/) | [**PROJECTS**](/projects/) | [**CHAIR & WG**](/committees/) | [**MEDIA**](/media/) | [**BLOG**](/blog/)
+[**HOME**](https://www.safbc.co.za) | [**MEMBERS**](/members/) | [**PROJECTS**](/projects/kyc/) | [**CHAIR & WG**](/committees/) | [**MEDIA**](/media/) | [**BLOG**](/blog/)
 
 The Consortium and the work it undertakes is currently organised into task focused working groups.
 
@@ -9,7 +9,7 @@ As at October 2018, the working groups and current chairs are as follows.
 | SAFBC Forum       | Tanya Knowles      | Consultant              | tanyaknowles1@gmail.com   |
 | Regulatory Stream | Catherine Tinavapi | Standard Chartered Bank | Catherine.Tinavapi@sc.com |
 | Fintech Stream    | Kreaan Singh       | Blockstarters           | kreaan@blockstarters.com  |
-| Technology Stream | Johan Pretorius    | Strate                  | johanp@strate.co.za       |
+| Identity Stream   | Anushka Soma-Patel | Old Mututal             | ASoma-Patel@oldmutual.com |
 | Academic Stream   | Co-Pierre Georg    |                         | cogeorg@gmail.com         |
 
 ## Roles of the Working Groups
@@ -34,7 +34,7 @@ As at October 2018, the working groups and current chairs are as follows.
 
 -   Create brand awareness and education presence for the Consortium.
 
-### Technology Stream
+### Identity Stream
 
 -   To build, assess and demonstrate how blockchain technology can be used for the development of use cases.
 
