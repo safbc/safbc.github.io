@@ -6,6 +6,8 @@
 
 White-papers and research
 
+[Decentralized Identity For Banks - 10 Good Reasons Why](</media/files/Decentralized-Identity-For-Banks.pdf>)
+
 [IMSC Pan-Canadian Trust Framework Version 1.0 Proposal](<https://github.com/canada-ca/PCTF-CCP>)
 
 [Digital ID - A Report on the Digital Identity Landscape and Providers (2019 - Blockchain Learning Group; Blockscale Solutions)](</media/files/Digital%20ID%20-%20A%20Report%20on%20the%20Digital%20Identity%20Landscape%20and%20Providers%20(2019).pdf>)
