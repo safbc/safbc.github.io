@@ -20,4 +20,6 @@ _To explore the use of Blockchain technology as applied to Digital Identity and 
 
 ### From the web
 
+[Decentralized Identity For Banks - 10 Good Reasons Why](</media/files/Decentralized-Identity-For-Banks.pdf>)
+
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6497225831356645376" height="738" width="504" frameborder="0" allowfullscreen=""></iframe>
