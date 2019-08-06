@@ -1,4 +1,4 @@
-[**HOME**](https://www.safbc.co.za) | [**MEMBERS**](/members/) | [**PROJECTS**](/projects/) | [**CHAIR & WG**](/committees/) | [**MEDIA**](/media/) | [**BLOG**](/blog/)
+[**HOME**](https://www.safbc.co.za) | [**MEMBERS**](/members/) | [**PROJECTS**](/projects/kyc/) | [**CHAIR & WG**](/committees/) | [**MEDIA**](/media/) | [**BLOG**](/blog/)
 
 ## Purpose
 
@@ -21,7 +21,6 @@ Blockchain and Distributed Ledger Technologies are in a ever evolving state and 
 The SAFBC is currently exploring the following Proof-of-Concepts to determine the potential of this tech in the respective industry verticals.
 
 -   Know Your Customer Interoperability ( Utilising Self-Sovereign Digital Identity platforms) [Read more...](/projects/kyc/)
--   Property/Asset Transfer [Read more](/projects/property/)
 
 ### Contact the SAFBC
 
