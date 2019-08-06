@@ -2,9 +2,7 @@
 
 ## Recomended Reading and Videos
 
-### Good to Read
-
-White-papers and research
+## Good to Read
 
 [Decentralized Identity For Banks - 10 Good Reasons Why](</media/files/Decentralized-Identity-For-Banks.pdf>)
 
@@ -12,14 +10,14 @@ White-papers and research
 
 [Digital ID - A Report on the Digital Identity Landscape and Providers (2019 - Blockchain Learning Group; Blockscale Solutions)](</media/files/Digital%20ID%20-%20A%20Report%20on%20the%20Digital%20Identity%20Landscape%20and%20Providers%20(2019).pdf>)
 
-### Good to Watch
+## Good to Watch
 
 #### BAC19 Johannesburg Panel 2 - Enterprise Blockchain in Finance
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7FOWxQfOF7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 #### BAC19 Johannesburg - PHILLIP WINDLEY - An Identity Metasystem
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IWrOwJ6iWw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IWrOwJ6iWw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 
 ## Notable @Mentions
