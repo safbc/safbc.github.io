@@ -1,11 +1,5 @@
 [**HOME**](https://www.safbc.co.za) | [**MEMBERS**](/members/) | [**PROJECTS**](/projects/kyc) | [**CHAIR & WG**](/committees/) | [**MEDIA**](/media/) | [**BLOG**](/blog/)
 
-Our presentation to the **Intergovermental FinTech Working Group Workshop** (3 September 2019)
-
-<iframe src="https://bankservafrica0-my.sharepoint.com/personal/garyd_bankservafrica_com/_layouts/15/Doc.aspx?sourcedoc={99d22366-9cdf-462f-a41a-0bfc77f3dbaa}&amp;action=embedview&amp;wdAr=1.6" width="610px" height="405px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
-
-## Other Recomended Reading and Videos
-
 ## Good to Read
 
 [Decentralized Identity For Banks - 10 Good Reasons Why](</media/files/Decentralized-Identity-For-Banks.pdf>)
