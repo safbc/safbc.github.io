@@ -8,21 +8,23 @@ _To explore the use of Blockchain technology as applied to Digital Identity and 
 
 ### Why
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Bt9ZJppfSq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ew-_F-OtDFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 [_DIGITAL IDENTIFICATION: A KEY TO INCLUSIVE GROWTH_](https://www.mckinsey.com/featured-insights/innovation-and-growth/the-value-of-digital-id-for-the-global-economy-and-society)
 
 ![Benifits of Good Digital ID](/projects/kyc/files//McKinseyGoodID.png)
-
-### What is SSI
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ew-_F-OtDFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Technologies
 
 - Sovrin
 - uPort
 - Other
+
+### Our Demos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bt9ZJppfSq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### From the web
 
