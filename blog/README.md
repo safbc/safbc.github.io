@@ -1,6 +1,6 @@
 [**HOME**](https://www.safbc.co.za) | [**MEMBERS**](/members/) | [**PROJECTS**](/projects/kyc) | [**CHAIR & WG**](/committees/) | [**MEDIA**](/media/) | [**BLOG**](/blog/)
 
-<a href="https://twitter.com/intent/tweet?button_hashtag=LoveTwitter&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #SelfSovreignIdentity</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/intent/tweet?button_hashtag=SelfSovereignIdentity&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #SelfSovreignIdentity</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Recommended Reads...
 
