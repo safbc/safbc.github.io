@@ -1,8 +1,9 @@
 [**HOME**](https://www.safbc.co.za) | [**MEMBERS**](/members/) | [**PROJECTS**](/projects/kyc) | [**CHAIR & WG**](/committees/) | [**MEDIA**](/media/) | [**BLOG**](/blog/)
 
-<a href="https://twitter.com/intent/tweet?button_hashtag=SelfSovereignIdentity&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #SelfSovreignIdentity</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Recommended Reads...
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Best explainer I’ve seen yet for <a href="https://twitter.com/hashtag/SSI?src=hash&amp;ref_src=twsrc%5Etfw">#SSI</a>.<br><br>Kudos ⁦<a href="https://twitter.com/Microsoft?ref_src=twsrc%5Etfw">@Microsoft</a>⁩ ! <a href="https://t.co/lLo5n2Z3Uh">https://t.co/lLo5n2Z3Uh</a></p>&mdash; Timothy Ruff (@RuffTimo) <a href="https://twitter.com/RuffTimo/status/1298618160988340224?ref_src=twsrc%5Etfw">August 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">My keynote address on digital identity &quot;This time it’s war&quot; at KnowID 2019 in Las . Vegas is here on Medium <a href="https://t.co/M1RKjjprE6">https://t.co/M1RKjjprE6</a></p>&mdash; © Dave Birch (2019) (@dgwbirch) <a href="https://twitter.com/dgwbirch/status/1111665070700924928?ref_src=twsrc%5Etfw">March 29, 2019</a></blockquote>
 
