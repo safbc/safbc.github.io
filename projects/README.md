@@ -1,6 +1,6 @@
 [**HOME**](https://www.safbc.co.za) | [**MEMBERS**](/members/) | [**PROJECTS**](/projects/kyc/) | [**CHAIR & WG**](/committees/) | [**MEDIA**](/media/) | [**BLOG**](/blog/)
 
-[**PROPERTY**](/projects/property/) | [**SSI KYC**](/projects/kyc/)
+[**PROPERTY**](/projects/property/) | [**DIGITAL IDENTITY**](/projects/kyc/)
 
 ## Demonstration Projects
 
