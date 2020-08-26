@@ -14,6 +14,10 @@ _To explore the use of Blockchain technology as applied to Digital Identity and 
 
 ![Benifits of Good Digital ID](/projects/kyc/files//McKinseyGoodID.png)
 
+### What is SSI
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ew-_F-OtDFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Technologies
 
 - Sovrin
